@@ -1,1 +1,0 @@
-**In this project, we are dealing with a data set containing 60,000 images of English digits, and an attempt has been made to partially identify these digits using the clustering algorithm. This is a primary student project, and it can definitely be implemented in much better ways.**
