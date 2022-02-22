@@ -4,7 +4,11 @@ Fall 2021, I was honored to attend a machine learning course in the presence of 
 The code is executed on my personal computer and on a computing server. For this reason, source codes have not been prepared for these projects. Anyway, I put the sweeping conclusions and source codes on the PDFs. For this purpose, the code doesn't need to exist. Furthermore, the codes are included in the report as short as possible.
 
 I consulted with friends that I would like to name during the project.
+
 -Ehsan Hosseinzadeh Ph.D. student at SFU University.
+
 -Behrad TaghiBeilgLoo Ph.D. Student, University of Toronto.
+
 -Sohrab Faridi, official TA of the course and graduate of Shahid Beheshti University.
+
 -Kian Adib Master student of Shahid Beheshti University.
